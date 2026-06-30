@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "1.0"
+      "sch_revision": "A"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -664,13 +664,13 @@
   "text_variables": {
     "AUTHOR": "NATCHANON THUENTHAM",
     "DRAWING_DATE": "30/06/2026",
-    "DRAWING_NAME": "DRAWING_NAME",
+    "DRAWING_NAME": "",
     "EX_PAGE": "0",
-    "PROJECT_ID": "PROJECT_ID",
-    "PROJECT_NAME": "PROJECT_NAME",
-    "RELEASE_DATE": "RELEASE_DATE",
-    "REVIEW_DATE": "REVIEW_DATE",
-    "REVIEW_NAME": "REVIEW_NAME"
+    "PROJECT_ID": "",
+    "PROJECT_NAME": "",
+    "RELEASE_DATE": "",
+    "REVIEW_DATE": "",
+    "REVIEW_NAME": ""
   },
   "tuning_profiles": {
     "meta": {
