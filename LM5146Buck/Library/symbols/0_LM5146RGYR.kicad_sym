@@ -255,7 +255,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 -3.81 0)
+				(at -17.78 0 0)
 				(length 5.08)
 				(name "RT"
 					(effects
@@ -345,7 +345,7 @@
 				)
 			)
 			(pin output line
-				(at -17.78 5.08 0)
+				(at -17.78 2.54 0)
 				(length 5.08)
 				(name "SYNCOUT"
 					(effects
@@ -363,7 +363,7 @@
 				)
 			)
 			(pin input line
-				(at -17.78 7.62 0)
+				(at -17.78 5.08 0)
 				(length 5.08)
 				(name "SYNCIN"
 					(effects
@@ -399,7 +399,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 -6.35 180)
+				(at -17.78 11.43 0)
 				(length 5.08)
 				(name "PGOOD"
 					(effects
@@ -453,7 +453,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 0 180)
+				(at 17.78 -1.27 180)
 				(length 5.08)
 				(name "LO"
 					(effects
@@ -471,7 +471,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 20.32 180)
+				(at 17.78 17.78 180)
 				(length 5.08)
 				(name "VCC"
 					(effects
@@ -526,7 +526,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 11.43 180)
+				(at 17.78 10.16 180)
 				(length 5.08)
 				(name "BST"
 					(effects
@@ -544,7 +544,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 2.54 180)
+				(at 17.78 13.97 180)
 				(length 5.08)
 				(name "HO"
 					(effects
@@ -562,7 +562,7 @@
 				)
 			)
 			(pin output line
-				(at 17.78 8.89 180)
+				(at 17.78 2.54 180)
 				(length 5.08)
 				(name "SW"
 					(effects
@@ -580,7 +580,7 @@
 				)
 			)
 			(pin power_in line
-				(at 17.78 17.78 180)
+				(at 17.78 20.32 180)
 				(length 5.08)
 				(name "VIN"
 					(effects
