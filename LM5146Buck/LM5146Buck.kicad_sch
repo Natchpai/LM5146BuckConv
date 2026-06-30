@@ -5,7 +5,7 @@
 	(uuid "76162bf1-0d95-48cb-b65a-4de551455d04")
 	(paper "A3")
 	(title_block
-		(rev "1.0")
+		(rev "A")
 		(comment 1 "Comment1")
 		(comment 2 "Comment2")
 	)
