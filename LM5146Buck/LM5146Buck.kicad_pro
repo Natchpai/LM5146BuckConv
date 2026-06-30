@@ -619,7 +619,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
-      "hop_over_size_choice": 3,
+      "hop_over_size_choice": 2,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -652,7 +652,7 @@
         "uuid": "76162bf1-0d95-48cb-b65a-4de551455d04"
       }
     ],
-    "used_designators": "L1,#PWR1-12,R1-9,C1-16,Q1-2,U1",
+    "used_designators": "D1-6,L1,#PWR1-17,J1-3,R1-9,C1-16,Q1-2,U1,RV1",
     "variants": []
   },
   "sheets": [
@@ -662,7 +662,7 @@
     ]
   ],
   "text_variables": {
-    "AUTHOR": "NATCHANON THUENTHAM",
+    "AUTHOR": "",
     "DRAWING_DATE": "30/06/2026",
     "DRAWING_NAME": "",
     "EX_PAGE": "0",
