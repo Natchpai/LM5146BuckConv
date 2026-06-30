@@ -1,0 +1,99 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "76162bf1-0d95-48cb-b65a-4de551455d04")
+	(paper "A3")
+	(title_block
+		(rev "1.0")
+		(comment 1 "Comment1")
+		(comment 2 "Comment2")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "V2-0_MyCustomTemplate_A3_CGFont_Sche.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WD0HV0jAPYvjyfwsuYBSJggErAtAAaR7Wa9hlmdVdNekfcipEiS2wwjby3wDAY9jweJAIkA
+				fwCRR3w76M3cx9p7Zg/UYSurPl+KdqiEjzUzYMYai1pq2au6G2bM+FrqeqKIKYeybkUt57r3ynSu
+				i3FRLXO26oWlOJhrQTeQ580Y42rqh1p1A3E525l6VM/toLcAoLNxqYc18wgTVQ3FbDoR2+tSllr0
+				AiLdvT17tq7qsZSjACBAwKPxwWioqmoUBLFhZLhIlMs0MVhc/I/dJIQ0md6i/JZuukgRzMSk2VwZ
+				hkD5/f/dnEOTCIlFIjFVPggiTeVLKYYlYg7nqpyxvTZX5f5VFeNeCwyyG9eiCc/gbOgcpewDDlqx
+				1oIsvRatGGRRr2cj4z27BPrHLJPJMG+QyKI4V4U/dMIeyqmXiGlFXeuycH7PnqsTEv/PWLvzlLP9
+				nbV2/KS3xfXRNReqTBTpOWaBbcL5zd7haxmaFiQKhmL6IDAIDXwgPPfa8XPec2A+bxF669f8kjA1
+				RFQojSdk/aR0rNuDr6e3lh7yy2SCgIhIeCd7Pr//W9GMy1JmnPNjy2tR1VISErZ7/tdaOqebWy8S
+				ekt+HgECEBljdF6ZJDARKUHiMNvJquBmnB4kCjD6syrc333+9zvD6N65hvKne7BjRBLf57fXZE+f
+				LNL00Hw2dG7wUh2Zvfj++p+1b3f++K0fnM5ff3P+zme7v7Dqh7IRB2NDZ9celGEN/dDKQSvv2n9h
+				IpmQKhH5mmTe8TKRJBUpgNygES1jSk3JjCRJhjFQhEzJVJEbhYMEK9WOFB4wjCoO/1MwlV+K7Rfl
+				JJsInjVh4g71fiAOo3kCH6ZInXWRb5BKMQCEAxNvi7hRuR7gsvp2nnNXauRQjfzMT9k8DKWOBoJ9
+				2HN8keZ2H7Gv5qU8pjUP/Lw6MQ5mM8M+xtEAMDt4NGguqGgF1vnlVGhbjP5xgW3SNsfjwszK1shM
+				zQGQTXGMU3p9BZ+GbkcZgVA5AKAw1x6IAV0JykahFK9LpjwXt/Pbjx62PvOLwrr27Nm43N5DHobh
+				Iv09Cz1SjfgFwTl1GBy4nUrCOuziaQ6QkGvUpYxEKyZu+XDe6vHasI4ohkZc592CnC6ALvL9TMRP
+				IVpg88MiOQowyiIblYDvXUmrAXjdyZ9zOuoMTstArDxSAwIQBDIBYFSirrwUNkcXYZN7duQA6yri
+				++cqMu9HXLGtdQ3UxjyYlQxuPVr0CDCNg9EAQipBZGr/MMECK+LHshchpkP24MM8wnIXUKQByMYp
+				KiCW5jwCdtDiF/PBLw9CRN78ZHAPHw1gKH7pfZ9bDJx4mttNMWfUsGDnt1xBWFhMgUN2+hcNFArz
+				eJjtOj/0qAnosaU9ABvQIZTigQoK+ztXORjlp5njWaRrZgEaq4EygMaSzrzyD9+GWjhoHZ0ct7wk
+				7QLzD8YDeAA4z/jYCMwC46fF4yWdLbxRaVtWJisC2CleMbfTN1LT2DZRjBjAADrASbRRPlpAjcGr
+				Ag==|
+			)
+			(checksum "F4863382EF56F8170D46F0A85CDEF982")
+		)
+		(file
+			(name "V2-0_MyCustomTemplate_A4_CGFont_Sche.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WAiHUUiANbtih/gHDc4txFJFvODQfD0UosFrG2ye3O5+1SyYxhDPGZwhQCEAIAAGZStpPZb
+				WthrDIXgd/6wCnPXSpeHli0K8YjDUQxlVMuWnccvrzStceoLcwiPKTFnEaQSc4kEjnJ2CJLGL/XJ
+				I4wy2OmyS1kEunAIogzb+2wcA1f5hXMBoGJlvJIup/bRQBH+oFRaj2L+RhxikoGbc9KX36EIrkbc
+				KgACgtXJ9RF9IfBUCJvXS1FUrM/uWpfWa/U0CsaH44lQIqgN379Vl7NvnVUskAxk42FkBE0Edsa4
+				lNE6lRJDU/YoosRQCCxl0dGwkZVDvHg53+ns3yj1i2hhzDiOsBHnEIcaNgLzimWy31MBe9sSBALJ
+				SQ1a+KVETLtwpVc4BWq0xqEvh+Jotv1eiSptap1fOIrNtNz0OhK3SusM410UtnvnMpd2fvtvt7n8
+				eaXPPIfi8ul4MsJhNpAlbJVe+2293s0Bvde67TQLL2LBXOhvfrubHeL97aR+uampeBSKZfGV8/9+
+				u9UcwiZxvHRb9e5z+IHjt6m0c85St3JiVAY13L1+217qnX1oFBeN5z0ydds+AYFh+3e7vfRbuTn/
+				O/pu5cR4mw9DsYBIKEaBDdodR316E0iDvrR0Cz0InD+Gfb9XWgZkSn9OUipnc9flexmFN+G2ev3S
+				Q7+8nUvrV87f7Ob1+19K/yu3O6t3pBB0fSOj3srBQC3CLgy2MMZRgXAUGAYnr9/Zz1mqqSggmIDY
+				oEGtUkpJichIkwxjYESEZJDGDQdLCaVT68rDnf1SknYnsn0G/jH4jMyIiTtWaSMyAW5qnI5hv9LN
+				DRBgDWNn9PFoZh4UU/v5KnBHmXY0Q8qG3Yek9UBV5ZbHaD9k4gv9PAxSGg9ZzKLwoWDRQaQNYWs+
+				NZ0mrCkNdZTScLEZsCQlacuwarb3Jh5TuBZ00XxwKcw6DOza8q/ki/0kk43BPTXiCKjOnmGctWDj
+				9gXA9bamIVPUcJs+chtqsRipSoB1jDuvdCUNqq+Z+Ab6lyz90rFd4Ne+JudSGMwnbtP44OBT3zgJ
+				ReenP+Rin04YNVOZYCs4QmqtBtNTitBAGlX9fGESEiAyUjaH7SWtKo9BMnUSCNmBuLRCKa5ozNcg
+				FbVeMDXAbBb7KyhOBLkhIRyA/Sq+FBZYqJiGP+xGTJSFTLcAumCwdKzHmkd60GhJn97PjMEsyYqZ
+				C2MHXuUgXKrT8YB/+0FvJDqYvNrS7F+DoZnYmLMsdhPB2LgBb4Twt9seDkII5MxKQxBL07y2D4rz
+				CQZ+ductLQjvSsVhHSQlp/yUDx2VahM9qD06P6rXFXrToDYgG9AToPZHm2KP85VAKH7NXJcFWmcC
+				6GNDYAxAtLYz3z3DsHlN3DQHE+eEp4QdIN9jFyAGhvMJDI2IzEact3i87LOlh0mtlpffEFk0sxl2
+				ocFrzZrGIQjJAAj0Qd5EbeS5A9QYvCo=|
+			)
+			(checksum "4E20C0C3B86704E8C2F3B6D4C1B673CA")
+		)
+		(file
+			(name "V2-1_MyCustomTemplate_A3_CGFont_Sche.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WDXG20hACbshiDgGj2ULzGsbyPqORJZpcJ1j93aXcLYMIpvUgYzvAQDDn8AfgB9AO/zuloa
+				FMP3/WVU3vCdch58OkjMOot6BLfJp0/f+tupLPN8+sQNZn0a9x4/qHGPRKGe1MVQpL+TZ4eyyXCp
+				nD7aoJCVxdBk0F5Sz68wtVt5FwAo1c6pKSfNPFkIyh4TKnM97k9nMYsMG6W0/nwXxzCl86oACAhS
+				JZYH9IFhqRDzSmu9TLfwbDyQafy44f01Kyd1bGOUygPz0HgXGCEDhb5zHmEyP51GkE7Xo2kEwXC0
+				x4a7tGqLWfGTvqzUX6tVYsQqX7TWLp23mEF3hcKdUpHuO+1cf31+Pp9JqyETv9N4cVameCqfwkzm
+				Gfy2OIao3/fUiMpo5ruV92ffWW82NGq22tjFs3SXe7lhcOUk9secJifFU8a8RmfxcDwY4RAbwBLX
+				Tmn9r8WSo4OK8ZWXyyg8SOViefmXVok3mqF4k0lF8XaT//5XsxvMpFFbOM1K7rf4hfrT2MrJ7VZ5
+				J82mHWY2jCX2i68j01kynufAWE17TVo86ShXUg5fGQGBQfur/ZTYbpT+c/Uvnsaz6BSPSHVuu57k
+				wag/b9XEDiLvb3FfYjzv4kGn/G3WOqlvWM73MJ0n2TSLJa4HzMl5r8STvnY1ad//55SPp4aplZxI
+				DFmfXlhsNw7h+jgos3K4ypcG5bHpLottYomp/3ZrhtI9Lp2G3o3KgNagYS1SSkmJSNIkwxhgRIRk
+				kMYNh6UIfU77ykPOlimS1hKyOUP+2T5zZOQiD08HYH4xEW407o5hKtAG2gZcw8IZvcvM9INiaj8z
+				AE6U6Y9mEmoYfUhaD8NSbhNG+0PmDOjiQevR0LNii5IP7kLnZzZma5564G2HAQnjgiGa803RMsyb
+				bdPEYzLXgi6aDS5ZYA5buzb+FXxhPwlkY7injzgCrrNnMM7a2fh9AfC9rTRkqhoupqfcBrBYjNQm
+				ADjG3YVc6cXVM0MgvPq/y9YmnbEFXuw1cS61wUrdNscHF5/kxklTdH7a8A1jbKdJyQ4LGxES0mow
+				FaUIC6RR0g8UNkICPCNNc9hd0qbyGCbTk8CTHVDKAUxDoLYGFr6mtNFqQakAt9luhqI4GXQ7zXaK
+				aQG8X1nahAukC8ZL/3qsT6QHIy3pU/mZKZglrJhhYcKAqhzcS3WaH6BvP9iNhA4mB7Y0+dcha6Yz
+				liwXu7lgbNiAN0L4220PByEEcmKlIYulGb22JRRnEQzo7MwLWxDTlcrAOmhK7vz0HwqVabM/qD06
+				P6rXFXrTrDYcG9AQoPhHm2KPwyqBKX6ZOZcVWmcL6GNDUAygsbaL3v3DsGVNHDTHE+eep8QdkO+x
+				FwjDw/kHBkREFiJ+Wjxe9tnSw6QWy8tqiByaiQ2z0Oy1Zk1TEIRkAAT6IG+iNvLcAWoMXhU=|
+			)
+			(checksum "653A9AEC7AA4D6CDF9E18AAFDC4C4204")
+		)
+	)
+)
