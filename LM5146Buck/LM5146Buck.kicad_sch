@@ -4372,7 +4372,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0bb60f5d-d3b9-4f56-b3dd-ab40c71edce8")
 		(property "Reference" "Q2"
 			(at 275.59 151.13 0)
@@ -4385,8 +4384,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
-			(at 275.59 152.4 0)
+		(property "Value" "BSC040N10NS5"
+			(at 275.59 153.162 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4396,7 +4395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "0_SuperSO:Infineon_PG-TDSON-8_6.15x5.15mm"
 			(at 274.32 153.035 0)
 			(hide yes)
 			(show_name no)
@@ -7667,10 +7666,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "c08ca03b-0ec6-497f-b8cf-e57976b8e39f")
 		(property "Reference" "Q1"
-			(at 275.59 127 0)
+			(at 275.082 125.984 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7680,8 +7678,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" ""
-			(at 275.59 128.27 0)
+		(property "Value" "BSC040N10NS5"
+			(at 274.574 128.016 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7691,7 +7689,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TDSON-8-1"
+		(property "Footprint" "0_SuperSO:Infineon_PG-TDSON-8_6.15x5.15mm"
 			(at 274.32 128.905 0)
 			(hide yes)
 			(show_name no)
